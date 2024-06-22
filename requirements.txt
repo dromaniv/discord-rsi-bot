@@ -1,0 +1,7 @@
+discord.py
+pandas
+ta
+requests
+pybit
+pycryptodome
+python-dotenv
